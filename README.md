@@ -4,7 +4,7 @@
 
 This project aims to build a sentiment analysis model that can automatically classify text as positive, negative, or neutral. The model uses natural language processing (NLP) techniques to understand and predict the sentiment of a given input, such as tweets, reviews, or any other form of text data.
 
-**Demo**: [Sentiment Analysis]((https://sentiment-analysis-121.streamlit.app/))
+**Demo**: [Sentiment Analysis](https://sentiment-analysis-121.streamlit.app/)
 
 ## Introduction
 
